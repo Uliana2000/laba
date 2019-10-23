@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.company.lab0.Lab0Test" tests="11" skipped="0" failures="0" errors="0" timestamp="2019-10-16T05:29:45" hostname="DESKTOP-98VKRA8" time="0.063">
+  <properties/>
+  <testcase name="testBooleanError" classname="com.company.lab0.Lab0Test" time="0.032"/>
+  <testcase name="testBooleanTask[0](22, true)" classname="com.company.lab0.Lab0Test" time="0.0"/>
+  <testcase name="testBooleanTask[1](33, false)" classname="com.company.lab0.Lab0Test" time="0.0"/>
+  <testcase name="testForTask[0](2.0, 2, [D@ff80b7)" classname="com.company.lab0.Lab0Test" time="0.0"/>
+  <testcase name="testInputOutputYear[0](2, 3, 1)" classname="com.company.lab0.Lab0Test" time="0.0"/>
+  <testcase name="testInputOutputYear[1](-1, 3, 4)" classname="com.company.lab0.Lab0Test" time="0.0"/>
+  <testcase name="testInputOutputYear[2](5, 2, 3)" classname="com.company.lab0.Lab0Test" time="0.0"/>
+  <testcase name="testSwitchError" classname="com.company.lab0.Lab0Test" time="0.0"/>
+  <testcase name="testSwitchTack[0](21, РґРІР°РґС†СЏС‚СЊ РѕРґРёРЅ СЂС–Рє)" classname="com.company.lab0.Lab0Test" time="0.0"/>
+  <testcase name="testSwitchTack[1](69, С€С–СЃС‚РґРµСЃСЏС‚ РґРµРІ'СЏС‚СЊ СЂРѕРєС–РІ)" classname="com.company.lab0.Lab0Test" time="0.0"/>
+  <testcase name="testWhileTask[0](20, com.company.lab0.lab0.Lab0$Pair@1b4ee14)" classname="com.company.lab0.Lab0Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
